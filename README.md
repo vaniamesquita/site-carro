@@ -11,13 +11,13 @@ Esse é um projeto simples, que foi desenvolvido acompanhando o video do canal n
 
 No projeto foi desenvolvido apenas uma pagina, que é de um catálogo de carros. Mesmo sendo um projeto simples, foi importante para praticar o uso do **Flexbox**, **Grid** e a **responsividade da página com media queries**
 
-#### Acesse o site completo: <a href="https://vaniamesquita.me/site-carro/" target="_blank">vaniamesquita.me/site-carro</a> 
+#### Acesse o site completo: <a href="https://site-carro.netlify.app" target="_blank">https://site-carro.netlify.app</a> 
 
 ---
 
 ## Layout
 
-Você pode acessar o projeto clicando <a href="https://vaniamesquita.me/site-carro/" target="_blank">aqui</a>
+Você pode acessar o projeto clicando <a href="https://site-carro.netlify.app" target="_blank">aqui</a>
 
 
 #### <p align="center">Web</p>
